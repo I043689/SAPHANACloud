@@ -1,5 +1,3 @@
-package com.sap.hana.demo.yikai;
-
 import java.util.Arrays;
 import java.util.List;
 
